@@ -1,0 +1,29 @@
+/* body {
+  font-family: "Russo One", sans-serif;
+} */
+
+body {
+  background-color: rgb(0, 0, 0);
+  color: rgb(54, 255, 47);
+  font-family: "Russo One", sans-serif;
+  font-size: 100px;
+}
+
+button {
+  background-color: rgb(54, 255, 47);
+  color: black;
+  padding: 10px 20px;
+  font-size: 24px;
+  font-family: "Russo One", sans-serif;
+}
+
+.clockCase {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+}
+
+.buttonCase {
+  display: flex;
+  justify-content: center;
+}
